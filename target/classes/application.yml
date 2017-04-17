@@ -1,0 +1,11 @@
+spring: 
+  data:
+    mongodb:
+      database: vault
+
+server:
+  context-path: /v1
+
+  
+test.api.token: ef87bc1c-bebc-4b74-bdf1-597e2b336329
+test.api.key: 2c397303-2a63-4bfa-ac72-70ec142f865c
